@@ -1,9 +1,9 @@
 ## Hello, I'm zL1ghtx_
 
 <div align="center">
-  <a href="https://github.com/zL1ght">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=balah7&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balah7&layout=compact&langs_count=7&theme=moltack"/>
+  <a href="https://github.com/zL1ghtx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zL1ghtx&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zL1ghtx&layout=compact&langs_count=7&theme=moltack"/>
 </div>
 
 
